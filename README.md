@@ -1,10 +1,4 @@
-I am Shivakumar Dasari.I did master's in Chaitanya Bharathi Institute Of Technology(CBIT) in the stream of CSE. 
+Numbers To Words Problem:
 
-- 🔭 I’m actively looking for software developer Job
-- 🌱 I have front end and back end skills such as HTML,CSS,JS,PYTHON,SQL,REACT JS
-- 🤔 I’m looking for help with software developers
-- 💬 Ask me about skills
-- 📫 Reach me over Whatsapp 8297717471 
--  #Self Motivator
-   # Learning new things
-
+Program to convert a given number to Dollar format for example if “1234567” is given as input, the output should be “one million two hundred thirty-four thousand five hundred sixty-seven dollars”. Code should be able to provide output up to 1 billion.
+ main
